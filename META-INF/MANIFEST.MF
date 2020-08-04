@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven 3.6.3
+Built-By: stpdm
+Build-Jdk: 11.0.7
+Main-Class: com.almasb.fxglgames.geowars.GeoWarsApp
+
